@@ -1,5 +1,5 @@
 # 学习 kitex
-
+https://www.cloudwego.io/zh/docs/kitex/getting-started/
 
 # Make kitex_gen
 ```
